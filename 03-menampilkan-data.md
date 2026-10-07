@@ -205,3 +205,7 @@ $note["body"]
 digunakan untuk mengambil isi catatan.
 
 Perulangan `while` digunakan karena jumlah catatan di database bisa berubah-ubah. Misal terdapat 5 catatan, maka card akan ditampilkan 5 kali. Dengan demikian, kita tidak perlu menulis card secara manual untuk setiap data.
+
+---
+
+## [Selanjutnya: Menambahkan Data](/04-menambah-data.md)

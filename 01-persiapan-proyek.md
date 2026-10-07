@@ -48,3 +48,7 @@ Ikuti langkah-langkah berikut dengan teliti.
 | `body`      | TEXT         | Isi catatan                              |
 | `createdAt` | DATETIME     | Waktu catatan dibuat                     |
 | `updatedAt` | DATETIME     | Waktu terakhir catatan diperbarui        |
+
+---
+
+## [Selanjutnya: Membuat Koneksi](/02-membuat-koneksi.md)

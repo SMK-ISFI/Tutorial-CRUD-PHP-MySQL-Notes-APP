@@ -79,3 +79,7 @@ Contohnya jika nama database salah, aplikasi dapat menampilkan pesan seperti:
 ```
 Unknown database 'notesapp_db'
 ```
+
+---
+
+## [Selanjutnya: Menampilkan Data](/03-menampilkan-data.md)
