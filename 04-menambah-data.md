@@ -231,3 +231,7 @@ Fungsi `mysqli_query()` digunakan untuk menjalankan perintah SQL.
 ### Kembali ke Halaman Utama
 
 `header("Location: index.php");` Setelah data berhasil ditambahkan, pengguna akan diarahkan kembali ke `index.php`. Halaman `index.php` kemudian membaca kembali seluruh data sehingga note yang baru ditambahkan langsung tampil.
+
+---
+
+## [Selanjutnya: Menampilkan Detail Data](/05-menampilkan-detail.md)
