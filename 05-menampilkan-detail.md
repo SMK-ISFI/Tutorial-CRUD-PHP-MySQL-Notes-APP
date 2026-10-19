@@ -170,4 +170,4 @@ $query = "SELECT * FROM notes WHERE id = '$id'";
 
 Query ini digunakan untuk mengambil satu data tertentu.
 
-## [Selanjutnya: Mengubah Data](/06-mengubah-data.mdd)
+## [Selanjutnya: Mengubah Data](/06-mengubah-data.md)
