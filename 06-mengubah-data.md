@@ -212,3 +212,7 @@ updatedAt
 ```
 
 Sedangkan `WHERE id = '$id'` digunakan untuk menentukan data yang akan diperbarui.
+
+---
+
+## [Selanjutnya: Menghapus Data](/07-menghapus-data.md)
